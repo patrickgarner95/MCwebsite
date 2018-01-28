@@ -64,9 +64,17 @@ li:active {
 .logo{
     padding: 5px;
     text-align: center;
-    bottom: 200px;
     padding:10px;
-    margin-bottom: 600px;
+    margin-bottom: 500px;
+}
+
+.widget{
+    text-align: center;
+}
+
+.widget1{
+    text-align: center;
+    margin-left: 85px;
 }
 
 a:visited {
