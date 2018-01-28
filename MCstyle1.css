@@ -26,6 +26,12 @@ h1 {
 ul {
     margin: 30px auto;
     text-align: center;
+    text-decoration: none;
+}
+
+ul:visited{
+    color: white;
+    text-decoration: none;
 }
 
 li {
@@ -37,8 +43,13 @@ li {
     height: 50px;
     margin: 15px;
     border: 1px solid;
+    text-decoration: none;
     font-family: papyrus, fantasy;
-    top:3px;
+}
+
+li:visited{
+    color: white;
+    text-decoration: none;
 }
 
 li:hover {
@@ -47,6 +58,15 @@ li:hover {
 
 li:active {
     color: white;
+    text-decoration: none;
+}
+
+.logo{
+    padding: 5px;
+    text-align: center;
+    bottom: 200px;
+    padding:10px;
+    margin-bottom: 600px;
 }
 
 a:visited {
@@ -64,4 +84,5 @@ a:hover {
 
 a:active {
     color: white;
+    text-decoration: none;
 }
