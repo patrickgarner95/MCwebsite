@@ -75,6 +75,7 @@ li:active {
 .widget1{
     text-align: center;
     margin-left: 85px;
+    margin-top:12px;
 }
 
 a:visited {
