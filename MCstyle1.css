@@ -4,6 +4,14 @@ body{
     background-size: cover;
 }
 
+@media screen and (max-width: 414px){
+    body{
+        background-image:url("./IMG_3890.jpg");
+        background-repeat:no-repeat;
+        width: 414px;;
+    }
+}
+
 h1 {
     color: rgb(52, 52, 73);
     font-size: 90px;
